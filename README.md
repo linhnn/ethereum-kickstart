@@ -1,1 +1,1 @@
-# ethereum-kickstart
+# Ethereum App: Build Kickstart Page
